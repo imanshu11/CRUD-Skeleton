@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/imanshu11/CRUD-Skeleton/issues"
   },
-  "homepage": "https://github.com/imanshu11/CRUD-Skeleton#readme"
+  "homepage": "https://github.com/imanshu11/CRUD-Skeleton#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
